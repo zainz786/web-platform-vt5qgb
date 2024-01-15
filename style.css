@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Darker Grotesque';
+  font-size: 40px;
+  color: rgb(38, 38, 44);
+  background-color: rgb(145, 179, 170);
+}
+
+.game-container {
+  background-color:rgb(64, 218, 177);
+}
